@@ -7,6 +7,13 @@ This repo allows you to filter Neetcode problems based on category and difficult
 First, you need to scrape the `neetcode.io` problems using BeautifulSoup. Then, run the `neetcode_parser.py` script. This script processes the HTML, extracting problem information and storing it in a `parsed_neatcode.csv` file. The CSV file includes key details like problem category, difficulty, and completion status Use the `get_problem.py` script to filter problems by category and difficulty. This script allows you to focus on the types of problems you want to practice, avoiding those that are too easy or too hard.
 
 ## Setup Instructions
+### Step 0. Clone this Repo
+Clone this repository with
+
+```bash
+git clone https://github.com/al3xisrobles/NeetCode-Problem-Parser-and-Generator.git
+```
+
 ### Step 1. Scrape neetcode.io
 1. Go to `neetcode.io` and login. Navigate to the Practice tab, then the Neetcode All tab within it.
 2. Switch to the "Grouped View" where all problem categories are listed.

@@ -21,7 +21,7 @@ git clone https://github.com/al3xisrobles/NeetCode-Problem-Parser-and-Generator.
 4. Right-click anywhere on the page and select Inspect (or use the hotkey: Cmd + Option + I on Mac or Ctrl + Shift + I on Windows/Linux).
 5. In the Elements tab that appears, find the `<html>` tag at the top of the DOM tree.
 6. Right-click the `<html>` tag, select Copy > Copy outerHTML.
-7. Paste this HTML into the `neetcode.html` file in the repo.
+7. Paste this HTML into a new file called `neetcode.html` in your cloned repo at the root directory.
 
 ### Step 2: Parse the HTML
 Start a virtual environment and install all of this project's dependencies with the command:

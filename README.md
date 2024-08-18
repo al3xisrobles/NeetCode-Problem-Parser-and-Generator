@@ -1,6 +1,10 @@
 # NeetCode Problem Parser and Generator
 This tool is designed to enhance your problem-solving experience on `neetcode.io` by giving you more control over how you select problems to solve.
 
+
+https://github.com/user-attachments/assets/54d9bb45-50f8-446f-8640-2b50e214f9a9
+
+
 ## What It Does
 This repo allows you to filter Neetcode problems based on category and difficulty, helping you practice more effectively.
 

@@ -1,1 +1,1 @@
-# NeetCode-Problem-Parser-and-Generator
+# NeetCode Problem Parser and Generator
